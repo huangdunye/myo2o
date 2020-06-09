@@ -9,15 +9,7 @@ public class Area {
 	private Integer priority;
 	private Date createTime;
 	private Date lastEditTime;
-    private String hh;
     
-	public String getHh() {
-		return hh;
-	}
-
-	public void setHh(String hh) {
-		this.hh = hh;
-	}
 
 	public Long getAreaId() {
 		return areaId;
